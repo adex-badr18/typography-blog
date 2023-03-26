@@ -1,3 +1,14 @@
+@font-face {
+    font-family: 'GlegooBanner';
+    src: url('../fonts/glegoo-regular-webfont.woff2') format('woff2'),
+        url('../fonts/glegoo-regular-webfont.woff') format('woff'),
+        url('../fonts/Glegoo-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 /* Universal Styles */
 html {
     font-size: 16px;
